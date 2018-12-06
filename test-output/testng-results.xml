@@ -2,20 +2,20 @@
 <testng-results total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-04T20:58:04Z" name="Default suite" finished-at="2018-12-04T20:58:04Z" duration-ms="50">
+  <suite started-at="2018-12-06T20:23:00Z" name="Default suite" finished-at="2018-12-06T20:23:00Z" duration-ms="97">
     <groups>
     </groups>
-    <test started-at="2018-12-04T20:58:04Z" name="Default test" finished-at="2018-12-04T20:58:04Z" duration-ms="50">
-      <class name="com.qa.tests.MavenTest">
-        <test-method signature="sub()[pri:0, instance:com.qa.tests.MavenTest@776aec5c]" started-at="2018-12-04T15:58:04Z" name="sub" finished-at="2018-12-04T15:58:04Z" duration-ms="20" status="PASS">
+    <test started-at="2018-12-06T20:23:00Z" name="Default test" finished-at="2018-12-06T20:23:00Z" duration-ms="97">
+      <class name="com.qa.tests.MavenTest2">
+        <test-method signature="sub()[pri:0, instance:com.qa.tests.MavenTest2@5bf0d49]" started-at="2018-12-06T15:23:00Z" name="sub" finished-at="2018-12-06T15:23:00Z" duration-ms="33" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sub -->
-        <test-method signature="sum()[pri:0, instance:com.qa.tests.MavenTest@776aec5c]" started-at="2018-12-04T15:58:04Z" name="sum" finished-at="2018-12-04T15:58:04Z" duration-ms="2" status="PASS">
+        <test-method signature="sum()[pri:0, instance:com.qa.tests.MavenTest2@5bf0d49]" started-at="2018-12-06T15:23:00Z" name="sum" finished-at="2018-12-06T15:23:00Z" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sum -->
-      </class> <!-- com.qa.tests.MavenTest -->
+      </class> <!-- com.qa.tests.MavenTest2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

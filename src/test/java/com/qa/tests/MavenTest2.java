@@ -7,7 +7,7 @@ public class MavenTest2 {
 
 	@Test
 	public void sum() {
-		System.out.println("SUM2");
+		System.out.println("SUM - 2");
 		int a = 10;
 		int b = 20;
 		Assert.assertEquals(30,a+b);
@@ -15,7 +15,7 @@ public class MavenTest2 {
 
 	@Test
 	public void sub() {
-		System.out.println("SUB2");
+		System.out.println("SUB - 2");
 		int a = 10;
 		int b = 20;
 		Assert.assertEquals(10,b-a);
